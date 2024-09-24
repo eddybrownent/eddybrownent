@@ -1,5 +1,8 @@
 # Hi there, I'm Edwin! 👋
+# I'm passionate about building scalable web and mobile applications, and leveraging machine learning to solve real-world problems. With a strong background in backend development and front-end technologies. I also enjoy diving into AI, working on training language models and deploying visual models. 
+# 🌱 Currently Exploring: Advanced AI model optimization, Cloud-native architecture, and more DevOps tools.
 
+# 🥂 Always ready to collaborate on innovative projects and solve challenging problems!
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=eddybrownent&show_icons=true&theme=transparent"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddybrownent&hide_progress=true"/>
